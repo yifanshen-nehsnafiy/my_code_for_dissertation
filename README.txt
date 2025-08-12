@@ -1,5 +1,6 @@
 %%
-Some functions (tACSChallenge_AnalyseData.m and functions in the zipped function folder) was originally written by Benedikt Zoefel, CNRS Toulouse, in October 2021.
+Some functions (tACSChallenge_AnalyseData.m and functions in the zipped function folder) were originally written by Benedikt Zoefel, CNRS Toulouse, in October 2021.
+Part of the functions was adapted by Yifan Shen, in July and August 2025.
 
 To run the anlaysis, please firstly unzip the function folder and add it into Matlab Path,
    
@@ -42,6 +43,7 @@ Importantly, analysis_pipeline generates summary tables that are well-suited for
   2. trial_summary.csv – Trial-level data including hit/miss outcomes, reaction times (RT), IAF, condition sequence, and other relevant variables.
 
   3. regression_summary.csv – Regression coefficients for each participant under each condition, along with IAF, condition sequence, and other relevant variables.
+
 
 
 
